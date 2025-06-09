@@ -1,5 +1,5 @@
 # Cybersecurity: Threat-Intelligence-Analysis
-A comprehensive cybersecurity capstone project covering real-time SOC threat detection (Wireshark, pfSense, Wazuh) and threat intelligence analysis targeting government digital infrastructures, profiling APT groups like Wizard Spider.
+A comprehensive threat intelligence analysis of Densa State Government’s digital infrastructure (densastate.gov.ng), uncovering vulnerabilities, and threat intelligence analysis targeting government digital infrastructures, profiling APT groups like Wizard Spider..
 
 ## 📚 Overview
 This repository showcases my cybersecurity capstone project, which integrates **Security Operations Center (SOC) threat detection** with **threat intelligence analysis** for real-world scenarios.
