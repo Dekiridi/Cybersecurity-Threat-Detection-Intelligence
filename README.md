@@ -55,7 +55,7 @@ The project simulates a layered defense using **Wireshark**, **pfSense**, and **
 
 ---
 ## let's connect
-🔗 [LinkedIn](https://linkedin.com/in/kiridi-david)
+🔗 [LinkedIn](https://www.linkedin.com/posts/kiridi-david_threat-intelligence-assessment-activity-7336013918177308675--AWj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1dUPEByIj2cRbQAPsn4QcGmvpGWifXhi8)
 📧 [Email](mailto:kirididavid@gmail.com)
 
 ---
